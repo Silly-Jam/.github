@@ -2,7 +2,7 @@
 
 Silly Jam Pte. Ltd. is a Singapore software company building thoughtful, characterful products for people who care about the things they collect, remember, and enjoy.
 
-Our first product is vynr — a modern wine cellar, atlas, journal and ageing companion for wine enthusiasts and collectors.
+Our first product is vynr — a modern wine cellar, atlas and journal for wine enthusiasts and collectors.
 
 vynr
 
