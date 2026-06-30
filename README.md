@@ -1,7 +1,4 @@
-# .github
-Public GitHub profile for Silly Jam Pte. Ltd. — makers of vynr
-
-Silly Jam
+# Silly Jam Pte. Ltd. — makers of vynr
 
 Silly Jam Pte. Ltd. is a Singapore software company building thoughtful, characterful products for people who care about the things they collect, remember, and enjoy.
 
